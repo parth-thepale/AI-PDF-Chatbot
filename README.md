@@ -3,6 +3,14 @@
 An AI-powered PDF Chatbot that allows users to upload PDF documents and ask questions in natural language. The application extracts text from PDFs, processes the content, and generates intelligent responses using Hugging Face language models, LangChain, ChromaDB, and Gradio.
 
 ---
+## How to run it?
+1. Open the Google Colab notebook.
+2. Run all cells sequentially.
+3. Install the required dependencies (if prompted).
+4. Upload a PDF document when requested.
+5. Wait for the retrieval pipeline to initialize.
+6. Open the generated Gradio Live URL.
+7. Upload your PDF and start asking questions in natural language.
 
 ## 🚀 Features
 
@@ -49,7 +57,7 @@ AI-PDF-Chatbot/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-PDF-Chatbot.git
+git clone https://github.com/parth-thepale/AI-PDF-Chatbot.git
 ```
 
 Move into the project directory
