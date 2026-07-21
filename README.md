@@ -80,19 +80,6 @@ Run the notebook using Jupyter Notebook or Google Colab.
 
 ---
 
-## 📸 Demo
-
-Add screenshots here after running the application.
-
-### Home Screen
-
-![Interface](assets/interface.png)
-
-### Chatbot Response
-
-![Demo](assets/demo.png)
-
----
 
 ## 📈 Future Improvements
 
@@ -115,9 +102,7 @@ This project currently uses a lightweight Hugging Face model for demonstration p
 
 **Parth Thepale**
 
-LinkedIn: *(Add your LinkedIn URL here)*
-
-GitHub: *(Add your GitHub profile here)*
+LinkedIn: www.linkedin.com/in/parth-thepale-32864b3a2
 
 ---
 
